@@ -1,4 +1,4 @@
-_Repositório apenas para armazenação dos arquivos e trabalhos da faculdade_
+_Repositório apenas para o armazenamento dos arquivos e trabalhos da faculdade_
 
 # Programação Orientada a Objetos - 3ª Fase - Unisul 2016/1
 
